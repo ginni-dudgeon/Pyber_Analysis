@@ -13,8 +13,11 @@ The analysis shows that ride-sharing income is consistent. However, the data sho
 
 ![Challenge Image](https://user-images.githubusercontent.com/105091538/180697189-3d985349-53cf-452e-ae83-94ca33396c45.png)
 
+<img width="502" alt="Screen Shot 2022-07-25 at 12 11 12 AM" src="https://user-images.githubusercontent.com/105091538/180697448-77157a23-f073-4559-8309-cbea6070d9a0.png">
+
+The image above
 
 o	
 o	There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-3.	Summary:
-![image](https://user-images.githubusercontent.com/105091538/180697120-ea1375ad-16b4-4c54-a6be-f36423fc5ceb.png)
+Summary:
+
